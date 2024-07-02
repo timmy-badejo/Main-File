@@ -365,7 +365,7 @@ a.navbar-brand :hover{
 	border-radius:0;
 }
 .dropdown-menu{
-	background-color: #e3d93a;
+	background-color: #000000;
 	padding: 0;
 }
 .dropdown-menu > li > a {
@@ -373,7 +373,7 @@ a.navbar-brand :hover{
 	color: #fff;
 }
 .dropdown-menu>li>a:hover {
-    background-color: #39FF14;
+    background-color: #e3d93a;
 	color: #fff;
 }
 .top-sosmed{
